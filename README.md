@@ -20,7 +20,7 @@ STEP:11 On the board, by giving required input, the LEDs starts to glow light, i
 ![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/016b3b20-1d4d-48fd-9012-a2c725b822db)
 # Truth Table
 ![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/3da43bab-6ee6-456f-858f-4553d3623f8c)
-![image](https://github.com/DhivyadharshiniSS/PRIORITY_ENCODER/assets/166376977/a5720ab5-90aa-40b8-9c5f-240f47652760)
+
 # VERILOG CODE:
 ```
 module encoder(d,a,b,c);
@@ -36,6 +36,3 @@ endmodule
 # RESULT:
 Priority Encoder is designed and simulated using vivado.
 
-![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/016b3b20-1d4d-48fd-9012-a2c725b822db)
-# Truth Table
-![image](https://github.com/RESMIRNAIR/PRIORITY_ENCODER/assets/154305926/3da43bab-6ee6-456f-858f-4553d3623f8c)
